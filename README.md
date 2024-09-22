@@ -39,22 +39,22 @@ Make sure you have the following installed:
 
 2. **Navigate to the Project Directory:**
 
-```bash
-Copy code
-cd scribbles
+    ```bash
+    Copy code
+    cd scribbles
 
 3. **Install Dependencies:**
 
-bash
-Copy code
-npm install
+    ```bash
+    Copy code
+    npm install
 
 4. Run the Development Server:
 
-bash
-Copy code
-npm start
-```
+    ```bash
+    Copy code
+    npm start
+
 🖋️ Usage
 
 Create Posts: Add your new blog posts through the admin interface (or backend API) and see them appear dynamically on the homepage.
